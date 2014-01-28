@@ -1,0 +1,6 @@
+files
+pyxis.debhelper.log
+pyxis.postinst.debhelper
+pyxis.prerm.debhelper
+pyxis.substvars
+pyxis/

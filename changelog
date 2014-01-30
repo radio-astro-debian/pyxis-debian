@@ -1,3 +1,9 @@
+pyxis (1.3.0-4precise1) precise; urgency=low
+
+  * fix dependency 
+
+ -- Gijs Molenaar <gijs@pythonic.nl>  Thu, 30 Jan 2014 15:12:07 +0200
+
 pyxis (1.3.0-3precise1) precise; urgency=low
 
   * pyrap is renamed to python-pyrap

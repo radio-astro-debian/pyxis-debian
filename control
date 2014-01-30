@@ -7,7 +7,8 @@ Standards-Version: 3.9.2
 Homepage: https://github.com/ska-sa/pyxis
 X-Python-Version: 2.7
 
-Package: pyxis
+Package: python-pyxis
 Architecture: any
-Depends: ${python:Depends}, ${misc:Depends}
+Depends: ${python:Depends}, ${misc:Depends}, python-pyfits, python-matplotlib,
+ pyrap, python-numpy, meqtrees-timba
 Description: Python Extensions for Interferometry Scripting

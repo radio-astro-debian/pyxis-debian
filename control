@@ -10,5 +10,5 @@ X-Python-Version: 2.7
 Package: python-pyxis
 Architecture: any
 Depends: ${python:Depends}, ${misc:Depends}, python-pyfits, python-matplotlib,
- python-pyrap, python-numpy, python-meqtrees-timba
+ python-casacore, python-numpy, python-meqtrees-timba
 Description: Python Extensions for Interferometry Scripting

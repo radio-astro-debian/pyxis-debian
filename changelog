@@ -1,3 +1,15 @@
+pyxis (1.4.1-2trusty) trusty; urgency=medium
+
+  * switch from pyrap to python-casacore
+
+ -- Gijs Molenaar (launchpad ppa build key) <gijs@pythonic.nl>  Tue, 01 Sep 2015 11:33:02 +0200
+
+pyxis (1.4.1-1trusty) trusty; urgency=medium
+
+  * New upstream release
+
+ -- Gijs Molenaar (launchpad ppa build key) <gijs@pythonic.nl>  Mon, 02 Mar 2015 11:27:56 +0200
+
 pyxis (1.4.0-1trusty) trusty; urgency=medium
 
   * new upstream release
